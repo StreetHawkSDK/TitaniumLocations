@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.8.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: StreetHawk's Location Module is used for running location based campaigns based on location of your application's user. Also module can be used for calculating the Work and Home locations of your application's user.
+author: StreetHawk
+license: Apache Public License
+copyright: 2016 StreetHawk
+
+# these should not be edited
+name: Locations
+moduleid: com.streethawk.shlocations
+guid: d5b546a2-b36f-4c37-b149-f44fd9687c9d
+platform: iphone
+minsdk: 5.0.0.GA
